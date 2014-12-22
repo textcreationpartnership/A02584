@@ -35,9 +35,65 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The reconciler: or An epistle pacificatorie of the seeming differences of opinion concerning the tru
+
+1. TO
+THE RIGHT HONOVRABLE,
+AND
+truly religious, my ſingular
+good Lord, Edward Earle
+of Norwich.
+
+1. TO THE CHRISTIAN
+READER
+Wiſedome and
+Charitie.
+
 #####Body#####
-The reconciler: or An epistle pacificatorie of the seeming differences of opinion concerning the tru
+
+1. To the Right Reuerend
+Father in God, THOMAS,
+Lord Biſhop of Couentree
+and Lichfield.
+
+1. To the Right Reuerend
+Father in God, my verie good
+Lord and Brother IOSEPH
+Lord Biſhop of Exon,
+theſe.
+
+1. To the Right Reuerend
+Father in God, IOHN,
+Lord Biſhop of Saliſburie.
+MY Lord; you deſire
+my opinion concerning
+an aſſertion of
+yours, wherat ſome
+haue taken offence. The
+1. ¶To the Reuerend and
+learned, Maſter Doctor PREDEAVX,
+profeſſor of Diuinitie
+in Oxford, and Rector
+of EXCETER
+Colledge.
+
+1. Right Reuerend Father
+in GOD;
+
+1. ¶To my Reuerend and
+learned friend M. Doctor PRIMEROSE,
+Preacher to the
+French Church in
+LONDON.
+
+1. To the Right Reuerend
+Father in God, and my very
+good Lord, IOSEPH
+Biſhop of Exceter.
+
+1. ¶To my VVorthy and
+much reſpected Friend
+Mr. H. CHOMLEY.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
